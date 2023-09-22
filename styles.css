@@ -39,3 +39,21 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+.refresh{
+  background-color: #52C11F;
+  color: #E6EAEF;
+  margin: 6px;
+  font-size: inherit;
+  padding: 0.6em 2.5em;
+  border-width: 0;
+  border-style: solid;
+  border-radius: 1.31em;
+  cursor: pointer;
+  font-family: "Booster Next FY", "Avenir Next", Avenir, sans-serif;
+  vertical-align: bottom;
+}
+
+.clicked{
+  background-color: #393E46;
+}
